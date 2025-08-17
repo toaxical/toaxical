@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm ryou</h1>
+<h4 align="center">so clueless that idk what to write here</h4>
 
-<!--
-**toaxical/toaxical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [To-Do list](https://github.com/toaxical/To-Do)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Data Structures** and **more Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/toaxical](https://github.com/toaxical)
+
+- 💬 Ask me about **life**
+
+- ⚡ Fun fact **i like spiders**
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toaxical&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="toaxical" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toaxical&show_icons=true&theme=dark&locale=en" alt="toaxical" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toaxical&theme=dark" alt="toaxical" /></p>
