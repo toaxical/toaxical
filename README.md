@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm ryou</h1>
-<h4 align="center">so clueless that idk what to write here</h4>
+<h4 align="center">i cant think of what to put here ;-;</h4>
+
+> *over-ambition is often proven worthless by limits of worldly factors, but can't the overflowing ambition defy them and make way beyond the limits? It really is dependent on one's mindset and how overflowing this ambition really is; since everyone believes they try but does everyone approach the limit?* 
 
 - 🔭 I’m currently working on [To-Do list](https://github.com/toaxical/To-Do)
 
