@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toaxical&show_icons=true&theme=dark&locale=en" alt="toaxical" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toaxical&theme=dark" alt="toaxical" /></p>
+
