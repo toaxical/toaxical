@@ -1,7 +1,7 @@
 <h2 align="center">ola 👋, me ryou.</h2>
 <h4 align="center">dunno wht to put up</h4>
 
-- 🔭 I’m currently working on [To-Do list](https://github.com/toaxical/To-Do)
+- 🔭 I’m currently working on _nothing_.
 
 - 🌱 I’m currently learning **Data Structures** and **more Python**
 
